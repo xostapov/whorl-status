@@ -4,12 +4,12 @@
     "url": "https://whorl.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "sajt-i-prilozhenie",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
     "time": 945,
     "timeDay": 1046,
     "timeWeek": 862,
@@ -17,7 +17,8 @@
     "timeYear": 945,
     "dailyMinutesDown": {
       "2026-10-16": 280,
-      "2026-10-23": 176
+      "2026-10-23": 176,
+      "2026-10-31": 24
     }
   },
   {
@@ -25,12 +26,12 @@
     "url": "https://whorl.wtf/api/status/messages",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "soobshheniya",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 598,
     "timeDay": 515,
     "timeWeek": 491,
@@ -38,7 +39,8 @@
     "timeYear": 598,
     "dailyMinutesDown": {
       "2026-10-16": 280,
-      "2026-10-23": 176
+      "2026-10-23": 176,
+      "2026-10-31": 20
     }
   },
   {
@@ -46,12 +48,12 @@
     "url": "https://whorl.wtf/api/status/auth",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "vhod-i-registracziya",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 485,
     "timeDay": 489,
     "timeWeek": 483,
@@ -59,7 +61,8 @@
     "timeYear": 485,
     "dailyMinutesDown": {
       "2026-10-16": 279,
-      "2026-10-23": 176
+      "2026-10-23": 176,
+      "2026-10-31": 15
     }
   },
   {
@@ -67,10 +70,10 @@
     "url": "https://whorl.wtf/api/status/media",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "foto-video-i-fajly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.90%",
     "time": 502,
@@ -80,7 +83,8 @@
     "timeYear": 502,
     "dailyMinutesDown": {
       "2026-10-16": 279,
-      "2026-10-23": 175
+      "2026-10-23": 175,
+      "2026-10-31": 10
     }
   },
   {
@@ -88,12 +92,12 @@
     "url": "https://whorl.wtf/api/status/push",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "uvedomleniya",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 514,
     "timeDay": 472,
     "timeWeek": 484,
@@ -101,7 +105,8 @@
     "timeYear": 514,
     "dailyMinutesDown": {
       "2026-10-16": 279,
-      "2026-10-23": 175
+      "2026-10-23": 175,
+      "2026-10-31": 5
     }
   },
   {
@@ -109,12 +114,12 @@
     "url": "https://whorl.wtf/api/status/calls",
     "icon": "https://icons.duckduckgo.com/ip3/whorl.wtf.ico",
     "slug": "zvonki",
-    "status": "up",
-    "uptime": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 617,
     "timeDay": 511,
     "timeWeek": 565,
